@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Restore Tailwind spacing if overridden */
+.max-w-3xl {
+  max-width: 48rem !important;
+}
+.mx-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.px-4 {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+.mb-4 {
+  margin-bottom: 1rem !important;
+}
+
+/* Paragraph spacing fix */
+main p {
+  margin-bottom: 1rem; /* Adds space after each paragraph */
+  line-height: 1.6;    /* Makes text easier to read */
+}

@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ partial "hero-banner.html" (dict "title" .Title "subtitle" "Know the story behind Bake Natural") }}
+  <section class="max-w-5xl mx-auto p-6 leading-relaxed">
+    {{ .Content }}
+  </section>
+
+{{ end }}

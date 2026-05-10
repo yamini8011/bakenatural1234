@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Bake Natural</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Bake Natural</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Bake Natural</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hai Everyone,&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Yamini Durga, the creator of Bake Natural. I&amp;rsquo;m glad that you have taken time to know about Bake Natural I,m a food blogger. Blogging introduced me into the world of baking.  Also I,m a mother of two kids. While baking at home for my kids, I wanted to cut down the negative things in baked goods as far as possible.&lt;/p&gt;&#xA;&lt;p&gt;Baking cakes at home make it way more healthy because we do not add any chemicals like cake gel, shortening, preservatives, bread improver etc. But still the things made me feel guilty were all purpose flour (Maida) and white sugar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;You can reach me via:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:healthybakes.bakenaturals@gmail.com&#34;&gt;healthybakes.bakenaturals@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📞 Phone: +91-8686767622&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

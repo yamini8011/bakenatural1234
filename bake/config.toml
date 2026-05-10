@@ -1,0 +1,22 @@
+baseURL = "https://bakenatural.in/"
+languageCode = "en-us"
+title = "Bake Natural"
+theme = ""
+enableRobotsTXT = true
+paginate = 6
+
+
+[params]
+  description = "Bake Natural – Wholesome Baking with Real Ingredients"
+  [params]
+  css = "css/styles.css"
+  // tailwind.config.js
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser]
+autoHeadingID = true
+[markup.goldmark.parser.attribute]
+block = true
+title = true
